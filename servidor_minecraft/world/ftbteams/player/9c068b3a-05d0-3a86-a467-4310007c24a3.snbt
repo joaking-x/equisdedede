@@ -1,0 +1,17 @@
+{
+	id: "9c068b3a-05d0-3a86-a467-4310007c24a3"
+	type: "player"
+	player_name: "sofita"
+	ranks: {
+		9c068b3a-05d0-3a86-a467-4310007c24a3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "sofita"
+		"ftbteams:description": ""
+		"ftbteams:color": "#94FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

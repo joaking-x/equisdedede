@@ -1,0 +1,17 @@
+{
+	id: "bb25bdb7-3aaa-3db7-b895-6ae3167c8512"
+	type: "player"
+	player_name: "Joaking"
+	ranks: {
+		bb25bdb7-3aaa-3db7-b895-6ae3167c8512: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Joaking"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D1FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
